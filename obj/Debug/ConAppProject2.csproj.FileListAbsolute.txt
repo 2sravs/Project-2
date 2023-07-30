@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppProject2\ConAppProject2\bin\Debug\ConAppProject2.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppProject2\ConAppProject2\bin\Debug\ConAppProject2.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppProject2\ConAppProject2\bin\Debug\ConAppProject2.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppProject2\ConAppProject2\obj\Debug\ConAppProject2.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppProject2\ConAppProject2\obj\Debug\ConAppProject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppProject2\ConAppProject2\obj\Debug\ConAppProject2.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppProject2\ConAppProject2\obj\Debug\ConAppProject2.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppProject2\ConAppProject2\obj\Debug\ConAppProject2.pdb
